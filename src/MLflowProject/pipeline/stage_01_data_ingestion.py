@@ -1,4 +1,4 @@
-from MLflowProject.config.configuration import ConfigurationManager
+from MLflowProject.config.configuration import ConfigurationManager 
 from MLflowProject.components.data_ingestion import DataIngestion
 from MLflowProject import logger
 
