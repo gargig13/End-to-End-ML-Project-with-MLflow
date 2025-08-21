@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SEM%20-%204/Projects/End-to-End-ML-Project-with-MLflow/mlruns/0/fc9d353989284865a11154cb19dc1ee9/artifacts
+end_time: 1755758964001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc9d353989284865a11154cb19dc1ee9
+run_name: beautiful-lamb-973
+run_uuid: fc9d353989284865a11154cb19dc1ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755758959967
+status: 3
+tags: []
+user_id: Hp
